@@ -31,3 +31,11 @@
     border-radius: 10px;
 }
 
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 51%;
+    padding-top: 59px;
+    position: relative;
+}
