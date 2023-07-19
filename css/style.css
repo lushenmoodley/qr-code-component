@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.container {    
+    background-color:  #D5E1EF;
+    display:flex;        
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.qr-container{
+    background: #FFFFFF;
+    box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
+    border-radius: 20px;
+    height: 497px;
+    width:320px;
+    text-align: center;
+}
+
+.qr-image{
+    background-color: #2C7DFA;
+    position: relative;
+    width: 96%;
+    height: 288px;
+    top: 2%;
+    left: 2%;
+    border-radius: 10px;
+}
+
